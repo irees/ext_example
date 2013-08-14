@@ -1,0 +1,7 @@
+// This file contains ParamDefs and RecordDefs that will be loaded
+// each time the database server starts.
+
+// Be aware not to edit items that are actively being used by the database --
+// you may change the format or indexing of an item.
+
+{"keytype": "paramdef", "uri": "http://ncmidb.bcm.edu/paramdef/example_paramdef", "vartype": "choice", "parents": ["root"], "desc_short": "Example ParamDef loaded from JSON", "name": "exmaple_paramdef"}

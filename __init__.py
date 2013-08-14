@@ -1,0 +1,1 @@
+# The extension MUST have __init__.py in the main package directory.
